@@ -1,0 +1,13 @@
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Form1.resources
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.Cache
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.pdb
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\bin\Debug\OpenTK.dll
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\bin\Debug\OpenTK.GLControl.dll
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\bin\Debug\OpenTK.pdb
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\bin\Debug\OpenTK.xml
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\bin\Debug\OpenTK.GLControl.xml
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+c:\users\аня\documents\visual studio 2015\Projects\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
